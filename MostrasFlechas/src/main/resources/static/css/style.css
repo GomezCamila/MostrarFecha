@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+body{
+	
+	text-align: center;
+	padding-top: 200px;
+}
+
+div{
+   
+   	display:flex;
+	justify-content: space-evenly;
+	align-items: center;
+	
+	 
+}
+
+a{
+	flex:1;
+	font-size:30px;
+	color: #80ff00;
+	text-decoration:none;
+	
+	
+
+}
+h1{
+	color:#800080;
+	text-align: center;
+}
